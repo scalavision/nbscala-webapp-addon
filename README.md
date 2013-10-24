@@ -1,4 +1,8 @@
 nbscala-webapp-addon
 ====================
 
-web and build.sbt add-on to nbscala plugin. It seems to work, but no guarantees what so ever....
+Sorry folks! This is not working yet...
+
+The scala files are ok, but the project setup is broken as I have changed some folder names etc.
+
+I will try to fix this as fast as possible
